@@ -1,0 +1,17 @@
+﻿Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"E:/Projects/mygame/content/Sprites/Chicken.png","E:/Projects/mygame/content/bin/iOS/Content/Sprites/Chicken.xnb","TextureProcessor","Texture2DContent",1706,1168,0.1111039
+"E:/Projects/mygame/content/Sprites/Chicken.png","E:/Projects/mygame/content/bin/iOS/Content/Sprites/Chicken.xnb","TextureProcessor","Texture2DContent",1745,1245,0.0138884
+"E:/Projects/mygame/content/Sprites/Cow.png","E:/Projects/mygame/content/bin/iOS/Content/Sprites/Cow.xnb","TextureProcessor","Texture2DContent",4590,3049,0.0238077
+"E:/Projects/mygame/content/Avatars/Dick.png","E:/Projects/mygame/content/bin/iOS/Content/Avatars/Dick.xnb","TextureProcessor","Texture2DContent",7853,5115,0.0193439
+"E:/Projects/mygame/content/Avatars/Dwarf.png","E:/Projects/mygame/content/bin/iOS/Content/Avatars/Dwarf.xnb","TextureProcessor","Texture2DContent",2834,2136,0.0124004
+"E:/Projects/mygame/content/Fonts/Japanese.fnt","E:/Projects/mygame/content/bin/iOS/Content/Fonts/Japanese.xnb","PassThroughProcessor","XmlSource",299977,28301,0.0381935
+"E:/Projects/mygame/content/Fonts/Russian.fnt","E:/Projects/mygame/content/bin/iOS/Content/Fonts/Russian.xnb","PassThroughProcessor","XmlSource",52244,5822,0.0119052
+"E:/Projects/mygame/content/Fonts/SmallFont.de-DE.spritefont","E:/Projects/mygame/content/bin/iOS/Content/Fonts/SmallFont.de-DE.xnb","FontDescriptionProcessor","SpriteFontContent",2377,9885,0.6075982
+"E:/Projects/mygame/content/Fonts/SmallFont.es-ES.spritefont","E:/Projects/mygame/content/bin/iOS/Content/Fonts/SmallFont.es-ES.xnb","FontDescriptionProcessor","SpriteFontContent",2377,9885,0.5465928
+"E:/Projects/mygame/content/Fonts/SmallFont.ja-JP.xnb","E:/Projects/mygame/content/bin/iOS/Content\Fonts/SmallFont.ja-JP.xnb","CopyItem","File",392588,392588,0.0014887
+"E:/Projects/mygame/content/Areas/House.tide","E:/Projects/mygame/content/bin/iOS/Content/Areas/House.xnb","TideProcessor","Map",15092,842,0.0074401
+"E:/Projects/mygame/content/Areas/House2.tide","E:/Projects/mygame/content/bin/iOS/Content/Areas/House2.xnb","TideProcessor","Map",18357,908,0.0084324
+"E:/Projects/mygame/content/Areas/House3.tide","E:/Projects/mygame/content/bin/iOS/Content/Areas/House3.xnb","TideProcessor","Map",25146,1074,0.0084309
+"E:/Projects/mygame/content/Text/Notes.zh-CN.xml","E:/Projects/mygame/content/bin/iOS/Content/Text/Notes.zh-CN.xnb","LanguageStringProcessor","Dictionary<string, string>",13053,8492,0.0228157
+"E:/Projects/mygame/content/Text/NpcNames.de-DE.xml","E:/Projects/mygame/content/bin/iOS/Content/Text/NpcNames.de-DE.xnb","LanguageStringProcessor","Dictionary<string, string>",1186,382,0.0233116
+"E:/Projects/mygame/content/Text/NpcNames.es-ES.xml","E:/Projects/mygame/content/bin/iOS/Content/Text/NpcNames.es-ES.xnb","LanguageStringProcessor","Dictionary<string, string>",1184,382,0.0203359

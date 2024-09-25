@@ -1,0 +1,29 @@
+﻿<Project Sdk="Eto.Forms/2.7.5">
+
+  <!--
+    Set the BuildPlatform property to the Eto platform you wish to build for.
+    The default is the platform you are building on.
+    Valid values: Wpf, Windows, Mac64, XamMac2, Gtk, Direct2D
+  -->
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Eto.Forms" Version="2.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Eto.Platform.Wpf" Version="2.8.3" />
+    <PackageReference Include="ScottPlot.Eto" Version="5.0.39" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="File1.mgstats">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
